@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah\\Semester 1\\Pemograman Visual\\My Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4717FC9-D8FA-4E50-81C8-8F9A787F1FC8}|Tugas UAS 2.vbproj|d:\\kuliah\\semester 1\\pemograman visual\\my project\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F4717FC9-D8FA-4E50-81C8-8F9A787F1FC8}|Tugas UAS 2.vbproj|solutionrelative:mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4717FC9-D8FA-4E50-81C8-8F9A787F1FC8}|Tugas UAS 2.vbproj|d:\\kuliah\\semester 1\\pemograman visual\\my project\\adddeviceform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F4717FC9-D8FA-4E50-81C8-8F9A787F1FC8}|Tugas UAS 2.vbproj|solutionrelative:adddeviceform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4717FC9-D8FA-4E50-81C8-8F9A787F1FC8}|Tugas UAS 2.vbproj|d:\\kuliah\\semester 1\\pemograman visual\\my project\\editdeviceform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F4717FC9-D8FA-4E50-81C8-8F9A787F1FC8}|Tugas UAS 2.vbproj|solutionrelative:editdeviceform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddDeviceForm.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 1\\Pemograman Visual\\My Project\\AddDeviceForm.vb",
+              "RelativeDocumentMoniker": "AddDeviceForm.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 1\\Pemograman Visual\\My Project\\AddDeviceForm.vb [Design]",
+              "RelativeToolTip": "AddDeviceForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-17T15:44:57.713Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditDeviceForm.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 1\\Pemograman Visual\\My Project\\EditDeviceForm.vb",
+              "RelativeDocumentMoniker": "EditDeviceForm.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 1\\Pemograman Visual\\My Project\\EditDeviceForm.vb [Design]",
+              "RelativeToolTip": "EditDeviceForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-17T15:44:44.549Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 1\\Pemograman Visual\\My Project\\MainForm.vb",
+              "RelativeDocumentMoniker": "MainForm.vb",
+              "ToolTip": "D:\\Kuliah\\Semester 1\\Pemograman Visual\\My Project\\MainForm.vb [Design]",
+              "RelativeToolTip": "MainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-17T15:44:20.658Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
